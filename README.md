@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to Comet.
+📜 Learning rust
 
 <!--
 **Comet-dot/Comet-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
